@@ -1,0 +1,45 @@
+day-1
+Basics Questions
+flow chart
+Average of 3 numbers
+simple intrest program
+sum of 2 numbers
+condition a>b, a<b, a==b 
+odd even numbers using mod operator
+given number is neagtive or positive
+triangle is valid or not (a+b>c, b+c>a, c+a>b)
+print 1 to n numbers
+print even numbers (1 to 20)
+
+day-2
+all include files//
+sizeof operation//
+how to convert number to binary numbers//
+ascii table//
+how negative number will store//
+calculator using switch case
+check weather char is lowercase or uppercase or numeric using (2 methods)
+pattern questions (5-10)
+nested switch case (switch into switch case)
+
+day-3
+task - functions, array, questions, html.
+break & continue statement
+power question using function
+odd even question using function
+find the ncr using function
+counting program using function
+fibonacci program using function
+find ap using function
+find circumference of a circle using function
+prime number using function
+sum of two numbers using function
+
+day-4
+array questions
+
+instagram account request
+desible instagram account
+
+
+
