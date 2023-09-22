@@ -37,9 +37,7 @@ sum of two numbers using function
 
 day-4
 array questions
-
-instagram account request
-desible instagram account
+ternary operator questions
 
 
 
